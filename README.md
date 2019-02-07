@@ -13,7 +13,10 @@ Specification:
 ## Available Scripts
 
 First you need to start the local API endpoint:
-In local_server/ directory you have to run "node .\api.js".
+
+In local_server/ directory you have to run:
+
+### `node .\api.js`
 
 In the project directory, you can run:
 
